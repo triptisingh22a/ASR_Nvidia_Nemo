@@ -30,7 +30,7 @@ nemo_asr_fastapi/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/nemo_asr_fastapi.git
+https://github.com/triptisingh22a/ASR_Nvidia_Nemo.git
 cd nemo_asr_fastapi
 
 ## 2. Create & Activate Virtual Environment
@@ -74,3 +74,4 @@ Model loading issues: Required careful attention to model checkpoints and tokeni
 Docker container build: Needed to optimize image size and runtime dependencies for NeMo.
 
 UX testing: Swagger UI was critical for debugging during development.
+
